@@ -11,7 +11,7 @@ export default function App() {
 const estilos = StyleSheet.create({
   container: {
     flex: 1,
-    alignItens: "center",
+    alignItems: "center",
     justifyContent: "center",
   },
 });
